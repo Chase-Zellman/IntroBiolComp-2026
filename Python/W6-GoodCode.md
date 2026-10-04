@@ -789,6 +789,8 @@ These values are as expected. Lets move the debugger a bit further down
 the code.
 
 ``` python
+    import pdb
+
     def GC_content(seq):
         
         # Count Gs and Cs
