@@ -881,7 +881,7 @@ sequences present in
 `IntroBiolComp-2026/Python/DataFiles/Turkey_transcripts_15_coding.fasta`.
 Output a fasta file with the corresponding protein sequences. Give your
 new sequences the same sequence headers as in the transcript file, but
-instead of ending in \"gbskey=CDS\", end in \"gbskey=CDS\". **Note:**
+instead of ending in \"gbskey=CDS\", end in \"gbskey=AA\". **Note:**
 The transcripts in our file are expressed as DNA sequences, so they have
 a Ts instead of Us for bases that would be an uracyl in teh actual RNA
 molecule.
